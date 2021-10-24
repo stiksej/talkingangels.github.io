@@ -81,7 +81,7 @@ $front->navbar();;
                      data-wow-delay="0.2s">
                     <i class="lni lni-handshake"></i>
                     <h4 class="features_title">Zaufanie</h4>
-                    <p>Zaufanie z rozmówcą jest bardzo ważne, nie bójcie się otworzyć. Może dzięki tej rozmowie Wasze życie <br> obróci się o 180&#176; </p>
+                    <p>Zaufanie z rozmówcą jest bardzo ważne, nie bójcie się otworzyć. Może dzięki tej rozmowie Wasze życie <br> obróci się o 180&#176;! </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
